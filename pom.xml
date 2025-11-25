@@ -181,6 +181,7 @@
                  <!-- NVD API Configuration -->
                  <nvdApiDelay>8000</nvdApiDelay>
                  <nvdMaxRetryCount>10</nvdMaxRetryCount>
+                  <skipNvdApiUpdate>true</skipNvdApiUpdate>
                  
                  <!-- Database connection settings -->
                  <connectionTimeout>60000</connectionTimeout>
